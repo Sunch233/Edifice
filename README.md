@@ -14,8 +14,8 @@
   - [x] 封包处理
   - [x] 完整握手流程
   - [ ] 分包合并 (W.I.P)
-  - [ ] ping/pong协议 (W.I.P)
-  - [ ] ACK/NACL协议
+  - [ ] ping/pong包 (50 %)
+  - [ ] ACK/NACK包
   - [ ] 超过mtuSize的封包分包处理
 
 - [ ] MCPE协议握手流程(Player Login)
