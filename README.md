@@ -11,12 +11,10 @@
 
 - RakNet协议
   - [x] 按照ip地址的会话分离
-  - [x] 封包处理
-  - [x] 分包解析
+  - [x] 封包处理 / 分包合并
   - [x] 完整握手流程
-  - [ ] 分包合并 (W.I.P)
-  - [ ] ping/pong包 (50 %)
-  - [ ] ACK/NACK包
+  - [ ] ping/pong (W.I.P)
+  - [ ] ACK/NACK解析 (30 %)
 
 - [ ] MCPE协议握手流程(Player Login)
  
