@@ -13,7 +13,7 @@
   - [x] 按照ip地址的会话分离
   - [x] 封包处理 / 分包合并
   - [x] 完整握手流程
-  - [ ] ping/pong (W.I.P)
+  - [x] ping/pong
   - [ ] ACK/NACK解析 (30 %)
 
 - [ ] MCPE协议握手流程(Player Login)
